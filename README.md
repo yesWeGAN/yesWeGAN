@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yesWeGAN
-- 👀 I’m interested in anything generative.
-- 🌱 I’m currently learning diffusion models.
-- 💞️ I’m looking to collaborate on human pose generation.
+- 👀 I’m interested in computer vision.
+- 🌱 I’m currently learning ViT.
+- 💞️ I’m looking to collaborate on human tracking/following robot.
 - 📫 How to reach me: here.
 
 <!---
